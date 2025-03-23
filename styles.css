@@ -13,7 +13,7 @@ body {
 
 header {
     background: #48D1CC;
-    color: #000000;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -30,7 +30,7 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background: #F0F8FF;
+    background: #48D1CC;
     color: #fff;
     width: 100%;
     position: relative;
